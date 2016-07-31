@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geometry Calculation App</string>
+    <string-array name="shapes">
+        <item>Rectangle</item>
+        <item>Box</item>
+        <item>Circle</item>
+        <item>Sphere</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
