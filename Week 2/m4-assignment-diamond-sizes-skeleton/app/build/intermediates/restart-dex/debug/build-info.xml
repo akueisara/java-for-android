@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="76535477238126"
+    token="-7773018169695022926" >
+
+    <task
+        name="javac"
+        duration="767" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="76441679018021" >
+        <artifact
+            location="D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="76495726479896"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="76535477238126" >
+        <artifact
+            location="D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="200105732961217" >
+        <artifact
+            location="D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

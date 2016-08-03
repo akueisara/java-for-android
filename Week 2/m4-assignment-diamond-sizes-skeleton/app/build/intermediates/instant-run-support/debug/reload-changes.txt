@@ -1,0 +1,2 @@
+CHANGED,D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\program\Android\m4-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\mooc\vandy\java4android\diamonds\logic\Logic$override.class
