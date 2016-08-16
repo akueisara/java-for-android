@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ui.MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/sizeET"
+        android:layout_alignParentEnd="true"
+        android:visibility="gone"
+        android:hint="Size of Pattern..." />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:includeFontPadding="false"
+        android:lineSpacingExtra="1dp"
+        android:lineSpacingMultiplier="1"
+        android:id="@+id/outputET"
+        android:layout_below="@+id/button"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="42dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:inputType="textMultiLine"
+        android:hint="Output Will Appear Here..."
+        android:typeface="monospace" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Process..."
+        android:id="@+id/button"
+        android:layout_below="@+id/sizeET"
+        android:onClick="buttonPressed"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter Size:"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/button"
+        android:layout_toStartOf="@+id/sizeET" />
+</RelativeLayout>
