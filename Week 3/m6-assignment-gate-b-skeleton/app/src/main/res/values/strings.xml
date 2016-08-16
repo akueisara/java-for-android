@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gate App b</string>
+    <string-array name="shapes">
+        <item>Corral</item>
+        <item>Herd</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_b1cae6b21536701bd734b27e52f48b0b3bae3972\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_a113df70b9b8a643194b36b8729c4d3d7b4c8323\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8df391cec2c654e31e061fbbc0ece5fd7998e06">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0871bd1b60902934f0257102cbfcd09f7de437d\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_25823649764574e4d715ccbec339020251820d61\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f7b137561cd81ac1ab0f97ddeaea28456a871ed6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_4314d5c387d123a62f2e97084dd070725c126438\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\akueisara\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_3b2f6891f5879be44afd48f26f151d0b515a5aa0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_1e02e53b1a8b6643ef23921b1a82d066659a9d3f\classes.dex" />
+    </item>
+    <item
+        jar="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="485b9ef8adcaa271b4956129c40d9ecc6ab184b8">
+        <dex dex="D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fb019eb406e10be858451e78ce67e270c372a388\classes.dex" />
+    </item>
+
+</items>

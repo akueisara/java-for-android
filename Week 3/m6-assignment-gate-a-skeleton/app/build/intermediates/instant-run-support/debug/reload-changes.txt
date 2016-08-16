@@ -1,0 +1,2 @@
+CHANGED,D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\mooc\vandy\java4android\gate\logic\Gate$override.class
+CHANGED,D:\program\Android\m6-assignment-gate-a-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
