@@ -19,3 +19,10 @@ Assignments for Java for Android on Coursera
 ### Module 6: Building Client Classes that Use Your Gate Class
 * [HerdManager.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java)
 * [FillTheCorral.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java)
+
+### Module 7: Creating Classes Using Inheritance and Polymorphism
+* [Building.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Building.java)
+* [House.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/House.java)
+* [Cottage.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Cottage.java)
+* [Office.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Office.java)
+* [Neighborhood.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Neighborhood.java)
