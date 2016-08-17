@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string-array name="math_options">
+        <item>add</item>
+        <item>subtract</item>
+        <item>multiply</item>
+        <item>divide</item>
+    </string-array>
+</resources>
