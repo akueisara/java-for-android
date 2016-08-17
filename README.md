@@ -26,3 +26,9 @@ Assignments for Java for Android on Coursera
 * [Cottage.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Cottage.java)
 * [Office.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Office.java)
 * [Neighborhood.java](https://github.com/akueisara/java-for-android/blob/master/Week%203/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Neighborhood.java)
+
+## Week 4
+### Mini-Project: Calculator App
+A basic calculator Android app with four basic match functions</br>
+<img src="http://akueisara.github.io/img/calculator.png" width="600"></img>
+* [Source Code](https://github.com/akueisara/java-for-android/tree/master/Week%204/m8-assignment-calculator-skeleton)
