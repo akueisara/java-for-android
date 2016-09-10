@@ -30,5 +30,5 @@ Assignments for Java for Android on Coursera
 ## Week 4
 ### Mini-Project: Calculator App
 A basic calculator Android app with four basic match functions</br>
-<img src="http://akueisara.github.io/img/calculator.gif" width="600"></img>
+<img src="http://akueisara.github.io/img/calculator.gif" height="600"></img>
 * [Source Code](https://github.com/akueisara/java-for-android/tree/master/Week%204/m8-assignment-calculator-skeleton)
