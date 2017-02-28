@@ -1,6 +1,8 @@
 # Java for Android
 Assignments for Java for Android on Coursera
 
+<strong>Note:</strong> I don't have access to submitting my assignments. It's just for my personal learning purpose. If the code has any issue, please contact me.
+
 ## Week 1
 ### Module 3: Geometry Calculations
 * [Logic.java](https://github.com/akueisara/java-for-android/blob/master/Week%201/m3-assignment-shapes-skeleton/app/src/main/java/mooc/vandy/java4android/shapes/logic/Logic.java)

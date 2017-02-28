@@ -1,2 +1,0 @@
-CHANGED,D:\program\Android\m5-assignment-birthday-probability-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\birthdayprob\ui\MainActivity.class
-CHANGED,D:\program\Android\m5-assignment-birthday-probability-skeleton\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\mooc\vandy\java4android\birthdayprob\logic\Logic.class

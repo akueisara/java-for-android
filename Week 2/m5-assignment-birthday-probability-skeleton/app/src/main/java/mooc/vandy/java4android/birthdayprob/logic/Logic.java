@@ -78,19 +78,20 @@ public class Logic
         // TODO -- add your code here
         int duplicateCount = 0;
         for(int i = 0; i < count; i++) {
-            ArrayList<Integer> birthdayList = generateRandomBirthdayList(size);
+            List<Integer> birthdayList = generateRandomBirthdayList(size, i+1);
             Set<Integer> set = new HashSet<Integer>(birthdayList);
             if(set.size() < birthdayList.size()){ // There are duplicates
                 duplicateCount++;
             }
         }
-        return (double)duplicateCount/count*100;
+        return duplicateCount * 100.0 / count;
 
     }
 
-    public ArrayList<Integer> generateRandomBirthdayList(int size) {
-        ArrayList<Integer> list = new ArrayList<Integer>();
+    public List<Integer> generateRandomBirthdayList(int size, int seed) {
+        List<Integer> list = new ArrayList<Integer>();
         Random random = new Random();
+        random.setSeed(seed);
         for (int i = 0; i <size ; i++) {
             int n = random.nextInt(365);
             list.add(n);

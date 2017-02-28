@@ -185,7 +185,7 @@ public class MainActivity
      */
     @Override
     public void makeAlertToast(String alertText) {
-        Toast.makeText(this,alertText,Toast.LENGTH_LONG).show();
+        Toast.makeText(this,alertText,Toast.LENGTH_LONG);
     }
 }
 
