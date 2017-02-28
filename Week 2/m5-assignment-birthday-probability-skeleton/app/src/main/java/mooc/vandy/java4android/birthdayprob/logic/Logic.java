@@ -4,6 +4,9 @@ import java.util.*;
 
 import mooc.vandy.java4android.birthdayprob.ui.OutputInterface;
 
+import static android.R.attr.x;
+import static android.R.id.list;
+
 /**
  * This is where the logic of this App is centralized for this assignment.
  * <p>
@@ -76,27 +79,20 @@ public class Logic
      */
     public double calculate(int size, int count) {
         // TODO -- add your code here
+        Random random = new Random();
         int duplicateCount = 0;
-        for(int i = 0; i < count; i++) {
-            List<Integer> birthdayList = generateRandomBirthdayList(size, i+1);
-            Set<Integer> set = new HashSet<Integer>(birthdayList);
-            if(set.size() < birthdayList.size()){ // There are duplicates
-                duplicateCount++;
+        for (int i = 0; i < count; i++) {
+            int birthdayCount[] = new int[365];
+            random.setSeed(i+1);
+            for (int j = 0; j <size ; j++) {
+                int n = random.nextInt(365);
+                birthdayCount[n]++;
+                if(birthdayCount[n] >= 2) {
+                    duplicateCount++;
+                    break;
+                }
             }
         }
         return duplicateCount * 100.0 / count;
-
     }
-
-    public List<Integer> generateRandomBirthdayList(int size, int seed) {
-        List<Integer> list = new ArrayList<Integer>();
-        Random random = new Random();
-        random.setSeed(seed);
-        for (int i = 0; i <size ; i++) {
-            int n = random.nextInt(365);
-            list.add(n);
-        }
-        return list;
-    }
-
 }
