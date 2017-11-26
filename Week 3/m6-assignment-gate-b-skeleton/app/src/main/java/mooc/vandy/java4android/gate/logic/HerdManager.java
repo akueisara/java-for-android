@@ -59,7 +59,7 @@ public class HerdManager {
             if (pen == 0) {
                 randomNumber = rand.nextInt(pasture)+1;
                 count = mWestGate.thru(randomNumber);
-                pen += count;
+                pen -= count;
             }
             else if(pasture == 0) {
                 randomNumber = rand.nextInt(pen)+1;
@@ -76,7 +76,7 @@ public class HerdManager {
                 else {
                     randomNumber = rand.nextInt(pasture)+1;
                     count = mWestGate.thru(randomNumber);
-                    pen += count;
+                    pen -= count;
 
                 }
             }
