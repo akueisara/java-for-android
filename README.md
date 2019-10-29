@@ -1,7 +1,7 @@
 # Java for Android
 Assignments for Java for Android on Coursera
 
-<strong>Note:</strong> I don't have access to submitting my assignments. It's just for my personal learning purpose. If the code has any issue, please contact me.
+<strong>Note:</strong> I don't have access to submitting my assignments. It's just for my personal learning purpose.
 
 ## Week 1
 ### Module 3: Geometry Calculations
