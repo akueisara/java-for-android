@@ -161,43 +161,53 @@ public class Logic
     }
 
     // TODO -- add your code here
-    public static double boxVolume(double length, double width, double depth) {
+    public static double boxVolume(double length, double width, double depth)   //returns the volume of a cube or cuboid
+    {
         return length * width * depth;
     }
 
-    public static double boxSurfaceArea(double length, double width, double depth) {
+    public static double boxSurfaceArea(double length, double width, double depth) // returns the Surface area of cube or cuboid cuboid
+    {
         return 2* (length * width + width * depth + length * depth);
     }
 
-    public static double rectanglePerimeter(double length, double width) {
+    public static double rectanglePerimeter(double length, double width)  // returns the perimeter of a rectangle
+    {
         return 2* (length + width);
     }
 
-    public static double rectangleArea(double length, double width) {
+    public static double rectangleArea(double length, double width)   //returns the area of a rectangle
+    {
         return length * width;
     }
 
-    public static double sphereVolume(double radius) {
+    public static double sphereVolume(double radius)   //returns the volume of a sphere
+    {
         return (4.0/3.0) * Math.PI * Math.pow(radius, 3);
     }
 
-    public static double sphereSurfaceArea(double radius) {
+    public static double sphereSurfaceArea(double radius)   //returns the surface area of sphere
+    {
         return 4 * Math.PI * radius * radius;
     }
 
-    public static double circleCircumference(double radius) {
+    public static double circleCircumference(double radius)   //returns the circumference of circle
+    {
         return 2 * Math.PI * radius;
     }
 
-    public static double circleArea(double radius) {
+    public static double circleArea(double radius)      // returns the Area of circle
+    {
         return Math.PI * radius * radius;
     }
 
-    public static double rightTrianglePerimeter(double base, double height) {
+    public static double rightTrianglePerimeter(double base, double height)         //returns the perimeter of a a right angle triangle
+    {
         return base + height + Math.sqrt(base * base + height * height);
     }
 
-    public static double rightTriangleArea(double base, double height) {
+    public static double rightTriangleArea(double base, double height)              //returns the area of right andle triangle
+    {
         return base * height / 2;
     }
 }
