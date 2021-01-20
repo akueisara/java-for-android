@@ -34,6 +34,10 @@ public class Office extends Building {
     public int getParkingSpaces() {
         return mParkingSpaces;
     }
+    
+    public static int getTotalOffices() {
+        return sTotalOffices;
+    }
 
     public void setBusinessName(String businessName) {
         this.mBusinessName = businessName;
