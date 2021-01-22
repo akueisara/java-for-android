@@ -23,7 +23,6 @@ public class Office extends Building {
 
     public Office(int length, int width, int lotLength, int lotWidth, String businessName, int parkingSpaces){
         this(length, width, lotLength, lotWidth, businessName);
-        mBusinessName = null;
         mParkingSpaces = parkingSpaces;
     }
 
